@@ -11,7 +11,7 @@ if (isLoggedIn()) {
     exit();
 }
 
-include 'includes/header.php';
+include 'header.php';
 ?>
 
 <div class="container">
